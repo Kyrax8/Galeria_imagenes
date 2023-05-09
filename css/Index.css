@@ -1,0 +1,163 @@
+.contenedor{
+    display: flex;
+    position: relative;
+
+    background-color: rgb(243, 232, 232);
+    width: 428px;
+    height: 926px;
+
+}
+.menu{
+    position: absolute;
+    top: 2.6rem;
+    left: 1.9rem;
+
+}
+.menu1 {
+    position: absolute;
+width: 250px;
+height: 52px;
+left: 117px;
+top: 38px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+}
+.foto0{
+    
+    position: absolute;
+    top: 7rem;
+    left: 0.6rem;
+
+}   
+.foto0 img{
+    box-shadow: 0px 8px 9px rgba(0, 0, 0, 0.25);
+    border-radius: 1.7rem;
+    position: absolute
+    
+}
+.texto{
+    color: white;
+    position: absolute;
+    top: 22rem;
+    left: 1.5rem;
+}
+.texto0{
+    font-style: italic;
+    font-size: 0.8rem;
+    color: white;
+    position: absolute;
+    margin-top: 23.3rem;
+    left: 1.5rem;
+
+}
+.chino img{
+    box-shadow: 0px 8px 9px rgba(0, 0, 0, 0.25);
+    border-radius: 1.7rem;
+
+    height: 19.5rem;
+    position: absolute;
+    top: 7rem;
+    left: 13.8rem;
+}
+.texto1{
+    color: white;
+    position: absolute;
+    top: 22rem;
+    left: 14.8rem;
+}
+.texto2{
+    font-style: italic;
+    font-size: 0.8rem;
+    color: white;
+    position: absolute;
+    margin-top: 23.3rem;
+    left: 14.8rem;
+
+}
+.foto1 img{
+    
+    box-shadow: 0px 8px 9px rgba(0, 0, 0, 0.25);
+    border-radius: 1.7rem;
+
+    position: absolute; 
+    top: 28.2rem;
+    left: 0.6rem;
+
+
+}
+.foto2 img{
+    
+    box-shadow: 0px 8px 9px rgba(0, 0, 0, 0.25);
+    border-radius: 1.7rem;
+
+    position: absolute; 
+    top: 38.8rem;
+    left: 0.6rem;
+
+
+}
+.chino2 img{
+    box-shadow: 0px 8px 9px rgba(0, 0, 0, 0.25);
+    border-radius: 1.7rem;
+
+    height: 19.5rem;
+    position: absolute;
+    top: 28rem;
+    left: 13.8rem;
+}
+.texto3{
+    color: white;
+    position: absolute;
+    top: 33rem;
+    left: 1.5rem;
+}
+.texto4{
+    font-style: italic;
+    font-size: 0.8rem;
+    color: white;
+    position: absolute;
+    top: 34.3rem;
+    left: 1.5rem;
+
+}
+.texto5{
+    color: white;
+    position: absolute;
+    top: 43.6rem;
+    left: 1.5rem;
+}
+.texto6{
+    font-style: italic;
+    font-size: 0.8rem;
+    color: white;
+    position: absolute;
+    top: 45rem;
+    left: 1.5rem;
+
+}
+.texto7{
+    color: white;
+    position: absolute;
+    top: 43.6rem;
+    left: 14.8rem;
+}
+.texto8{
+    font-style: italic;
+    font-size: 0.8rem;
+    color: white;
+    position: absolute;
+    top: 45rem;
+    left: 14.8rem;
+
+}
+.mas img{
+
+    display: flex;
+    position: absolute;
+    top: 51rem;
+    left: 22.6rem;
+}
